@@ -110,7 +110,6 @@ Markdown is the most popular markup language that can be used to format document
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-12. 
 
 Cool Tips 
 
