@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Blog-on-Markdown)
 # What is Markdown?
 Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
@@ -130,3 +131,10 @@ But I have to admit, tasks lists are my favorite:
 When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 
 And, of course emoji!
+
+# Meet me on 
+DEV:-[Dev](https://dev.to/ansh00)
+
+GITHUB:-[Github](https://github.com/Ansh00)
+
+LINKEDIN:-[Linkedin](https://www.linkedin.com/in/anshul-raghuwanshi-36435b1bb)
