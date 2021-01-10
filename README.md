@@ -25,6 +25,8 @@ Markdown is the most popular markup language that can be used to format document
     No of #'s represent the type of heading. Github will automatically add id's to headings, so the text will be automatically linked. 
     ## This is h2
     ### This is h3
+    You can use one `#` all the way up to `######` six for different heading sizes.
+
 4. Links
 
    [My Github](https://github.com/Ansh00 "all repos") account.[Anshul] github repo.
