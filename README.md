@@ -91,7 +91,26 @@ Markdown is the most popular markup language that can be used to format document
     |APPLE|4000|
     |REALME|500|
 
+9. Blockquotes
 
+    As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+10. Inline code
+
+    I think you should use an
+`<addr>` element here instead.
+
+11. Task Lists
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+12. 
 
 Cool Tips 
 
